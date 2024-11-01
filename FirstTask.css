@@ -1,0 +1,19 @@
+button {
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+button {
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-size: 12px;
+    border-radius: 2px;
+    color: #333333;
+    background-color: #F5F6FA;
+}
+
+button:hover {
+    background-color: #4CAF50;
+    color: #F5F6FA;
+    font-size: 13px;
+}
